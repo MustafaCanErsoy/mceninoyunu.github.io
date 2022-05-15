@@ -10,6 +10,6 @@
 ### Suan tam olarak calismasa da oyunun senaryosunda zemin yukari dogru hareket etmektedir eger ki topunuzu SOLA VE SAGA hareket ederek delikten asagiya dusurmezseniz elenirsiniz . Ne kadar uzun sure hayatta kalmayi basarirsaniz o kadar kazanmis sayilirsiniz.
 ## Oyunumuzdan bir takim fotograflar asagidadir.  
 **Topumuz Sola dogru gitmisken :**  
-![sola top](https://www.hizliresim.com/gxl5b09)  
+![sola top](url=https://www.hizliresim.com/gxl5b09][img]https://i.hizliresim.com/gxl5b09.PNG[/img][/url)  
 **Topumuz Saga dogru gitmisken : **  
-![saga top](https://www.hizliresim.com/a07ytj8)  
+![saga top](url=https://www.hizliresim.com/a07ytj8][img]https://i.hizliresim.com/a07ytj8.PNG[/img][/url)
