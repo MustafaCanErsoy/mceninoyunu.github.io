@@ -1,0 +1,33 @@
+#yuvarlak{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(17, 146, 49);
+    border-radius: 50%;
+    position: relative;
+    top: 500px;
+    left: 280px;
+    z-index: 1000000;
+}
+#oyun{
+    width: 600px;
+    height: 750px;
+    border: 2px solid rgba(56, 14, 14, 0.829);
+    margin: auto;
+    overflow: hidden;
+}
+.bosluk{
+    width: 60px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 150px;
+    margin-top: -30px;
+}
+.block{
+    width: 600px;
+    height: 30px;
+    background-color: rgb(255, 0, 0);
+    position: relative;
+    top: 150px;
+    margin-top: -30px;
+}
