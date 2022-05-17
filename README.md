@@ -7,9 +7,22 @@
 -[w3schools linki](https://www.w3schools.com/graphics/game_intro.asp  ).  
 -[w3schools linki]( https://www.w3schools.com/graphics/canvas_intro.asp ).  
 ## Bu oyun nasil oynanir ve senaryosu nedir ? 
-### Suan tam olarak calismasa da oyunun senaryosunda zemin yukari dogru hareket etmektedir eger ki topunuzu SOLA VE SAGA hareket ettirerek delikten asagiya dusurmezseniz elenirsiniz . Ne kadar uzun sure hayatta kalmayi basarirsaniz o kadar kazanmis sayilirsiniz.
+### Maalesef suan tam olarak calismasa da oyunun senaryosunda zemin yukari dogru hareket etmektedir eger ki topunuzu SOLA(Sol yon tusu) VE SAGA(sag yon tusu) hareket ettirerek delikten asagiya dusurmezseniz elenirsiniz . Ne kadar uzun sure hayatta kalmayi basarirsaniz o kadar kazanmis sayilirsiniz.
+## Bu oyunu tasarlarken su teknolojilerden yararlanilmistir : 
+### 1-) HTML
+### 2-) CSS
+### 3-) JS
+
 ## Oyunumuzdan bir takim fotograflar asagidadir.  
 **Topumuz Sola dogru gitmisken :**  
-![sola top]([url=https://www.hizliresim.com/gxl5b09])  
+
+
+![image](https://user-images.githubusercontent.com/76706592/168870670-b05d940f-7420-48dd-82ed-f7f4a0056329.png)
+
+
 **Topumuz Saga dogru gitmisken : **  
-![saga top]([url=https://www.hizliresim.com/a07ytj8]])
+
+
+![image](https://user-images.githubusercontent.com/76706592/168870809-d60e9770-35cb-409d-8714-b625e0cd3bf4.png)
+
+
